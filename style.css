@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&family=Zilla+Slab:wght@700&display=swap');
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
@@ -20,23 +20,25 @@
 
 body {
   background-color: rgb(240, 240, 240);
-  font-family: 'Baloo Tamma 2', cursive;
+  font-family: 'Zilla Slab', serif;
+  font-family: 'Tajawal', sans-serif;
 }
 
 h1 {
   color: #204051;
-  font-family: 'Baloo Tamma 2', cursive;
+  font-family: 'Zilla Slab', serif;
 }
+
 
 p {
   color: #3B6978;
-  font-family: 'Baloo Tamma 2', cursive;
+  font-family: 'Tajawal', sans-serif;
 }
 
 
 h2 {
   color: #204051;
-  font-family: 'Baloo Tamma 2', cursive;
+  font-family: 'Zilla Slab', serif;
   font-size: 20px;
 }
 
@@ -72,7 +74,7 @@ a:hover {
 }
 
 .card-white {
-  background-color: red;
+  background-color: white;
   width: 500px;
   margin: 24px auto;
   padding: 24px;
